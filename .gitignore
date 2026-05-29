@@ -1,0 +1,9 @@
+# Jangan upload koneksi karena ada password-nya
+koneksi.php
+
+# Jangan upload file sampah buatan Windows
+Thumbs.db
+.DS_Store
+
+# Jangan upload folder sampah editor (opsional)
+.vscode/
